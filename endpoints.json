@@ -1,0 +1,7 @@
+{
+    "schema_version": 1,
+    "revision": 1,
+    "api_base_urls": [
+      "https://data-mobile.gomugomunopistol.workers.dev/"
+    ]
+  }
